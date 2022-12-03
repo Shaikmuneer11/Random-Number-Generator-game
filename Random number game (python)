@@ -1,7 +1,5 @@
 import random
-
 chances = 3
-
 gameover = 1
 totalscore = 0
 print("----------------- GUESS THE NUMBER GAME -------------------")
