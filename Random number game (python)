@@ -1,3 +1,4 @@
+#Random number generating game
 import random
 chances = 3
 gameover = 1
